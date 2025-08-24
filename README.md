@@ -8,7 +8,7 @@
     <a href="https://github.com/seaeam/seaeam">me</a> .
     <a href="https://github.com/SeaMmMm/se-element">seui</a> .
     <a href="https://github.com/seaeam/project-demo">demo</a> .
-    <a href="https://github.com/506-FETL/one-question-per-day">questions-done</a>
+    <a href="https://github.com/506-FETL/one-question-per-day">one-question-per-day</a>
     
   </samp>
     </p>
