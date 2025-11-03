@@ -66,7 +66,7 @@ Mac                      16 hrs 37 mins      ███████████�
 </td></tr>
 
 <tr><td>
-  <img alt="github-snake" src="profile-snake-contrib/github-user-contribution.svg"/>
+  <img alt="github-snake" src="profile-snake-contrib/github-contribution-grid-snake.svg"/>
 </td></tr>
 
 </table>
