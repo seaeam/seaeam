@@ -66,7 +66,11 @@ Mac                      16 hrs 37 mins      ███████████�
 </td></tr>
 
 <tr><td>
-  <img alt="github-snake" src="profile-snake-contrib/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seaeam/seaeam/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seaeam/seaeam/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seaeam/seaeam/output/github-contribution-grid-snake.svg">
+  </picture>
 </td></tr>
 
 </table>
