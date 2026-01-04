@@ -14,11 +14,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_KEY }}
           GH_TOKEN: ${{ secrets.README }}
-          SHOW_LINES_OF_CODE : "False"
-          SHOW_PROFILE_VIEWS : "False"
-          SHOW_LANGUAGE_PER_REPO : "False"
-          SHOW_LOC_CHART : "False"
-          SHOW_SHORT_INFO : "False"
-          SHOW_PROJECTS : "False"
-          SHOW_TOTAL_CODE_TIME : "False"
-          SHOW_TITLE : true
+          SHOW_LINES_OF_CODE : true
+          SHOW_PROFILE_VIEWS : true
+          SHOW_LANGUAGE_PER_REPO : true
+          SHOW_LOC_CHART : false
+          SHOW_SHORT_INFO : true
+          SHOW_PROJECTS : true
+          SHOW_TOTAL_CODE_TIME : false
+          SHOW_COMMIT : true
