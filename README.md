@@ -24,15 +24,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 232.6 kB Used in GitHub's Storage 
+> 📦 234.8 kB Used in GitHub's Storage 
  > 
-> 🏆 207 Contributions in the Year 2026
+> 🏆 208 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -76,17 +76,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Vue                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-MDX                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript               5 repos             ████████░░░░░░░░░░░░░░░░░   31.25 % 
+TypeScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+TeX                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+MDX                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
 
 
- Last Updated on 08/06/2026 04:13:25 UTC
+ Last Updated on 09/06/2026 03:42:05 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 
