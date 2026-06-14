@@ -20,7 +20,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -86,7 +86,7 @@ MDX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2026 01:05:03 UTC
+ Last Updated on 14/06/2026 01:06:14 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 
