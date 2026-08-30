@@ -63,48 +63,48 @@ Sunday                   584 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   38.82 % 
-TypeScript               9 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-TeX                      3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-SQL                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Image (svg)              1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Markdown                 12 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   39.05 % 
+TypeScript               8 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+TeX                      3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+SQL                      1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Image (svg)              1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 35 mins      █████████████████░░░░░░░░   69.10 % 
-Codex Vscode             10 hrs 6 mins       ████████░░░░░░░░░░░░░░░░░   30.90 % 
+VS Code                  22 hrs 35 mins      ██████████████████░░░░░░░   72.33 % 
+Codex Vscode             8 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.67 % 
 
 🐱‍💻 Projects: 
-resume                   28 hrs 3 mins       █████████████████████░░░░   85.82 % 
-GBHAA                    4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-e:                       28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+resume                   26 hrs 35 mins      █████████████████████░░░░   85.15 % 
+GBHAA                    4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+e:                       28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 TKDE-Graph_adversarial At1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      27 hrs 31 mins      █████████████████████░░░░   84.17 % 
-Windows                  5 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Mac                      26 hrs 3 mins       █████████████████████░░░░   83.42 % 
+Windows                  5 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 33 mins (90.37%)
+⏱ AI Coding Time: 28 hrs 5 mins (89.95%)
 
-✍️ 41,848 lines written by AI, 340 lines written by hand (99.19% AI-written)
+✍️ 39,182 lines written by AI, 340 lines written by hand (99.14% AI-written)
 
-🔤 75,985,258 Input Tokens, 10,490,246 Output Tokens
+🔤 75,158,808 Input Tokens, 10,374,865 Output Tokens
 
-💵 $1417.07 Estimated AI Cost This Week
+💵 $1398.15 Estimated AI Cost This Week
 
-🧠 96 AI Sessions, 135 AI Prompts
+🧠 95 AI Sessions, 128 AI Prompts
 
-GPT                      42,990 lines        █████████████████████████   99.53 % 
-Codex-Vscode             205 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+GPT                      40,317 lines        █████████████████████████   99.49 % 
+Codex-Vscode             205 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.19% of written lines came from AI
-📚 Verbose Prompter — average 1,617 characters per prompt
+🤖 AI-Driven — 99.14% of written lines came from AI
+📚 Verbose Prompter — average 1,704 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 1.5% of changed lines were hand-edited
+🚀 High AI Trust — 1.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +120,7 @@ MDX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 06:07:54 UTC
+ Last Updated on 30/08/2026 04:15:30 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 
