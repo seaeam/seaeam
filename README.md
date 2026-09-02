@@ -20,13 +20,13 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-121%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-121%20hrs%2018%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 275.4 kB Used in GitHub's Storage 
+> 📦 275.5 kB Used in GitHub's Storage 
  > 
 > 🏆 455 Contributions in the Year 2026
  > 
@@ -63,49 +63,48 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      6 hrs 11 mins       ██████████████░░░░░░░░░░░   57.43 % 
-Python                   2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-AutoHotkey               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-TSConfig                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+TeX                      6 hrs 34 mins       ███████████████░░░░░░░░░░   61.40 % 
+Python                   2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+TSConfig                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 46 mins       █████████████░░░░░░░░░░░░   53.58 % 
-VS Code                  5 hrs               ████████████░░░░░░░░░░░░░   46.42 % 
+Codex Vscode             5 hrs 52 mins       ██████████████░░░░░░░░░░░   54.83 % 
+VS Code                  4 hrs 50 mins       ███████████░░░░░░░░░░░░░░   45.17 % 
 
 🐱‍💻 Projects: 
-GBHAA                    8 hrs 59 mins       █████████████████████░░░░   83.41 % 
-resume                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-e:                       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-my_attack                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+GBHAA                    9 hrs 24 mins       ██████████████████████░░░   87.72 % 
+resume                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+my_attack                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 TKDE-Graph_adversarial At1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Windows                  10 hrs 31 mins      ████████████████████████░   97.65 % 
-Mac                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Windows                  10 hrs 27 mins      ████████████████████████░   97.63 % 
+Mac                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 23 mins (68.51%)
+⏱ AI Coding Time: 7 hrs 29 mins (69.87%)
 
-✍️ 1,820 lines written by AI, 78 lines written by hand (95.89% AI-written)
+✍️ 1,820 lines written by AI, 72 lines written by hand (96.19% AI-written)
 
-🔤 2,820,090 Input Tokens, 422,036 Output Tokens
+🔤 3,013,921 Input Tokens, 435,422 Output Tokens
 
-💵 $106.39 Estimated AI Cost This Week
+💵 $108.16 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 57 AI Prompts
+🧠 10 AI Sessions, 59 AI Prompts
 
 GPT                      1,912 lines         ████████████████████████░   95.55 % 
 Codex-Vscode             89 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.89% of written lines came from AI
-📝 Concise Prompter — average 446 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 18.16% of changed lines were hand-edited
+🤖 AI-Driven — 96.19% of written lines came from AI
+📝 Concise Prompter — average 434 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 16.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +120,7 @@ MDX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 04:06:17 UTC
+ Last Updated on 02/09/2026 03:28:02 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 
