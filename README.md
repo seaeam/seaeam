@@ -20,7 +20,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-126%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -63,49 +63,48 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      4 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.47 % 
-Python                   2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Other                    1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-HTML                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+TeX                      3 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+Python                   2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Other                    2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+HTML                     1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+JavaScript               1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 27 mins       █████████████████░░░░░░░░   68.84 % 
-VS Code                  4 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.16 % 
+Codex Vscode             9 hrs 28 mins       ██████████████████░░░░░░░   72.08 % 
+VS Code                  3 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
 
 🐱‍💻 Projects: 
-GBHAA                    9 hrs 39 mins       ██████████████████░░░░░░░   70.33 % 
-resume                   3 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-my_attack                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-TKDE-Graph_adversarial At1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+GBHAA                    8 hrs 40 mins       ████████████████░░░░░░░░░   65.98 % 
+resume                   3 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+my_attack                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 💻 Operating System: 
-Windows                  13 hrs 29 mins      █████████████████████████   98.15 % 
-Mac                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Windows                  12 hrs 52 mins      █████████████████████████   98.07 % 
+Mac                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 34 mins (76.93%)
+⏱ AI Coding Time: 10 hrs 43 mins (81.71%)
 
-✍️ 5,975 lines written by AI, 403 lines written by hand (93.68% AI-written)
+✍️ 5,793 lines written by AI, 373 lines written by hand (93.95% AI-written)
 
-🔤 3,680,620 Input Tokens, 639,539 Output Tokens
+🔤 3,919,890 Input Tokens, 645,552 Output Tokens
 
-💵 $87.92 Estimated AI Cost This Week
+💵 $92.23 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 78 AI Prompts
+🧠 11 AI Sessions, 80 AI Prompts
 
-GPT                      6,051 lines         █████████████████████████   99.95 % 
+GPT                      5,869 lines         █████████████████████████   99.95 % 
 Codex-Vscode             3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.68% of written lines came from AI
-📝 Concise Prompter — average 344 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 15.09% of changed lines were hand-edited
+🤖 AI-Driven — 93.95% of written lines came from AI
+📝 Concise Prompter — average 345 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 12.61% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +120,7 @@ MDX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 03:29:22 UTC
+ Last Updated on 04/09/2026 03:27:26 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 
