@@ -26,7 +26,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 344.0 kB Used in GitHub's Storage 
+> 📦 344.1 kB Used in GitHub's Storage 
  > 
 > 🏆 460 Contributions in the Year 2026
  > 
@@ -63,48 +63,49 @@ Sunday                   587 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-Other                    2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-JSON                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-TeX                      1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-JavaScript               1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Other                    3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+HTML                     2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+JSON                     2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+JavaScript               1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+TeX                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 42 mins       ██████████████████░░░░░░░   72.47 % 
-VS Code                  2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+Codex Vscode             9 hrs 33 mins       ███████████████████░░░░░░   77.81 % 
+VS Code                  2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
 
 🐱‍💻 Projects: 
-GBHAA                    5 hrs 35 mins       █████████████░░░░░░░░░░░░   52.61 % 
-resume                   3 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   30.85 % 
-baidu                    1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+GBHAA                    6 hrs 55 mins       ██████████████░░░░░░░░░░░   56.31 % 
+resume                   3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+baidu                    1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Unknown Project          30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+v                        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
 💻 Operating System: 
-Windows                  8 hrs 1 min         ███████████████████░░░░░░   75.38 % 
-Mac                      2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+Windows                  9 hrs 38 mins       ████████████████████░░░░░   78.53 % 
+Mac                      2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 2 mins (85.02%)
+⏱ AI Coding Time: 10 hrs 53 mins (88.71%)
 
-✍️ 9,795 lines written by AI, 372 lines written by hand (96.34% AI-written)
+✍️ 12,079 lines written by AI, 373 lines written by hand (97.0% AI-written)
 
-🔤 5,125,379 Input Tokens, 773,437 Output Tokens
+🔤 5,795,074 Input Tokens, 922,564 Output Tokens
 
-💵 $127.63 Estimated AI Cost This Week
+💵 $143.58 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 79 AI Prompts
+🧠 26 AI Sessions, 96 AI Prompts
 
-GPT                      9,794 lines         ████████████████████████░   97.17 % 
-Codex-Vscode             285 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+GPT                      12,078 lines        ████████████████████████░   97.69 % 
+Codex-Vscode             285 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.34% of written lines came from AI
-📝 Concise Prompter — average 471 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 10.83% of changed lines were hand-edited
+🤖 AI-Driven — 97.0% of written lines came from AI
+📝 Concise Prompter — average 474 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 9.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +121,7 @@ MDX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 03:35:24 UTC
+ Last Updated on 09/09/2026 03:39:32 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 
