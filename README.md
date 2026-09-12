@@ -20,7 +20,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-133%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -63,48 +63,46 @@ Sunday                   587 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      3 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.24 % 
-Other                    1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-JSON                     1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-XML                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-HTML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+TeX                      3 hrs 40 mins       ████████████░░░░░░░░░░░░░   46.20 % 
+Markdown                 1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Other                    55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+XML                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+HTML                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 54 mins       █████████████████████░░░░   83.77 % 
-VS Code                  1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Codex Vscode             6 hrs 21 mins       ████████████████████░░░░░   79.86 % 
+VS Code                  1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
 
 🐱‍💻 Projects: 
-GBHAA                    6 hrs 35 mins       ████████████████████░░░░░   79.98 % 
-baidu                    1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-v                        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+GBHAA                    6 hrs 37 mins       █████████████████████░░░░   83.28 % 
+baidu                    1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
 
 💻 Operating System: 
-Mac                      5 hrs 44 mins       █████████████████░░░░░░░░   69.71 % 
-Windows                  2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.29 % 
+Mac                      7 hrs 30 mins       ████████████████████████░   94.36 % 
+Windows                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 47 mins (94.62%)
+⏱ AI Coding Time: 7 hrs 27 mins (93.57%)
 
-✍️ 8,033 lines written by AI, 4 lines written by hand (99.95% AI-written)
+✍️ 3,731 lines written by AI, 4 lines written by hand (99.89% AI-written)
 
-🔤 4,651,402 Input Tokens, 671,137 Output Tokens
+🔤 4,228,275 Input Tokens, 579,965 Output Tokens
 
-💵 $130.33 Estimated AI Cost This Week
+💵 $124.28 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 79 AI Prompts
+🧠 19 AI Sessions, 66 AI Prompts
 
-GPT                      8,032 lines         ████████████████████████░   96.57 % 
-Codex-Vscode             285 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+GPT                      3,732 lines         ███████████████████████░░   92.91 % 
+Codex-Vscode             285 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📄 Detailed Prompter — average 596 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.84% of changed lines were hand-edited
+🤖 AI-Driven — 99.89% of written lines came from AI
+📄 Detailed Prompter — average 588 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 11.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +118,7 @@ MDX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 03:35:10 UTC
+ Last Updated on 12/09/2026 03:39:47 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 
