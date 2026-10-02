@@ -63,46 +63,46 @@ Sunday                   610 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-Other                    58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-TypeScript               57 mins             ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-Python                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Swift                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Other                    58 mins             ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+TypeScript               57 mins             ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+Python                   35 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       ███████████████░░░░░░░░░░   58.67 % 
-Codex Vscode             1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   41.33 % 
+VS Code                  2 hrs 26 mins       █████████████████░░░░░░░░   67.38 % 
+Codex Vscode             1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   32.62 % 
 
 🐱‍💻 Projects: 
-my_attack                2 hrs 3 mins        ████████████░░░░░░░░░░░░░   49.47 % 
-echo                     58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-life                     50 mins             █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-film                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+my_attack                2 hrs 4 mins        ██████████████░░░░░░░░░░░   57.28 % 
+echo                     58 mins             ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+life                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+film                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 💻 Operating System: 
-Mac                      4 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 55 mins (94.57%)
+⏱ AI Coding Time: 3 hrs 23 mins (93.76%)
 
-✍️ 2,864 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,384 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,842,357 Input Tokens, 695,891 Output Tokens
+🔤 4,790,786 Input Tokens, 662,633 Output Tokens
 
-💵 $245.88 Estimated AI Cost This Week
+💵 $239.05 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 20 AI Prompts
+🧠 26 AI Sessions, 12 AI Prompts
 
-GPT                      2,192 lines         ████████████████████████░   95.60 % 
-Codex-Vscode             101 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+GPT                      1,711 lines         ████████████████████████░   94.43 % 
+Codex-Vscode             101 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 581 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📄 Detailed Prompter — average 829 characters per prompt
+🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -119,7 +119,7 @@ MDX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 04:46:26 UTC
+ Last Updated on 02/10/2026 04:37:07 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 
