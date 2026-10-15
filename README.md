@@ -20,7 +20,7 @@
 ### 📊 WakaTime
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-162%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -63,49 +63,49 @@ Sunday                   613 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.02 % 
-Markdown                 4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-JavaScript               2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-MDX                      2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Python                   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+TypeScript               6 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
+Markdown                 5 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+JavaScript               2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+MDX                      2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Python                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 
 🔥 Editors: 
-Codex Vscode             15 hrs 24 mins      ████████████████████░░░░░   81.78 % 
-VS Code                  3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Codex Vscode             17 hrs 1 min        █████████████████████░░░░   82.98 % 
+VS Code                  3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
 
 🐱‍💻 Projects: 
-elips-doc                6 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.74 % 
-resume                   6 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   36.51 % 
-my_attack                2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-elips                    1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-GBHAA                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+resume                   8 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   40.56 % 
+elips-doc                6 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.73 % 
+my_attack                2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+elips                    1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+GBHAA                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 💻 Operating System: 
-Mac                      11 hrs 55 mins      ████████████████░░░░░░░░░   63.29 % 
-Windows                  6 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   36.71 % 
+Mac                      12 hrs 9 mins       ███████████████░░░░░░░░░░   59.25 % 
+Windows                  8 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 24 mins (87.07%)
+⏱ AI Coding Time: 18 hrs 4 mins (88.09%)
 
-✍️ 14,368 lines written by AI, 392 lines written by hand (97.34% AI-written)
+✍️ 17,474 lines written by AI, 393 lines written by hand (97.8% AI-written)
 
-🔤 12,441,904 Input Tokens, 1,905,621 Output Tokens
+🔤 14,369,944 Input Tokens, 2,173,319 Output Tokens
 
-💵 $529.41 Estimated AI Cost This Week
+💵 $603.44 Estimated AI Cost This Week
 
-🧠 85 AI Sessions, 116 AI Prompts
+🧠 96 AI Sessions, 130 AI Prompts
 
-GPT                      14,646 lines        █████████████████████████   100.00 % 
+GPT                      17,780 lines        █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.34% of written lines came from AI
-📄 Detailed Prompter — average 1,443 characters per prompt
+🤖 AI-Driven — 97.8% of written lines came from AI
+📚 Verbose Prompter — average 1,522 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 36.63% of changed lines were hand-edited
+🚀 High AI Trust — 32.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +121,7 @@ MDX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 03:59:42 UTC
+ Last Updated on 15/10/2026 03:41:13 UTC
 <!--END_SECTION:waka-->
 </td></tr>
 
