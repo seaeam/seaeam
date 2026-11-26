@@ -5,7 +5,7 @@
 <tr><td>
   <p align="center">
   <samp>
-    <a href="https://github.com/seaeam/seaeam">me</a> .
+    <a href="https://me.506resume.cc">me</a> .
     <a href="https://github.com/506-FETL/resume">resume</a>
     <a href="https://github.com/506-FETL/one-question-per-day">one-question-per-day</a> .
     <a href="https://github.com/SeaMmMm/se-element">seui</a> .
